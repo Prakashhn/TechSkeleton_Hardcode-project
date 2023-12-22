@@ -1,0 +1,1 @@
+# TechSkeleton_Hardcode-project
